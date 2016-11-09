@@ -12,7 +12,9 @@ Downloaded from http://devzone.co.in
 
 /*!40014 SET @OLD_FOREIGN_KEY_CHECKS=@@FOREIGN_KEY_CHECKS, FOREIGN_KEY_CHECKS=0 */;
 /*!40101 SET @OLD_SQL_MODE=@@SQL_MODE, SQL_MODE='NO_AUTO_VALUE_ON_ZERO' */;
+CREATE DATABASE /*!32312 IF NOT EXISTS*/`myadmin` /*!40100 DEFAULT CHARACTER SET latin1 */;
 
+USE `myadmin`;
 
 /*Table structure for table `ci_sessions` */
 
