@@ -18,7 +18,6 @@ USE `myadmin`;
 
 /*Table structure for table `ci_sessions` */
 
-SHOW TABLES;
 
 DROP TABLE IF EXISTS `ci_sessions`;
 
